@@ -43,10 +43,11 @@ So Congratulations !
 ## FOLLOW SCREENSHOTS
 
 ### [+] Screenshots 1
-![CAPTURE 1](screenshots/screenshot_1.jpg)
+![CAPTURE 1](https://drive.google.com/file/d/1-SG7D-2r1KoWDdDZgXqH09Rt6YQRFaKI/view?usp=drivesdk)
 
 ### [+] Screenshots 2
-![CAPTURE 1](screenshots/screenshot_2.jpg)
+![CAPTURE 1](https://drive.google.com/file/d/1-WCeS8EfZiB2SxAyK-4T-bpYg5C4r0nV/view?usp=drivesdk)
 
 ### [+] Screenshots 3
-![CAPTURE 1](screenshots/screenshot_3.jpg)
+![CAPTURE 1](https://drive.google.com/file/d/1-Ytqfco5GROpqeMW8ik_HvHO7hVbB7nZ/view?usp=drivesdk)
+Thanks For Watching my code!
